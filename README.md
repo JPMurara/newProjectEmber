@@ -1,7 +1,7 @@
-# emberjs-project
+# Project ecommerce using Ember.js
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is my first project using a JavaScript framework, in which I had a brush with ember.js. This is a simple ecommerce website where you have two products, which can be added to a shopping cart and it is updated automatically. By doing this code along project I got familiar with ember.js core concepts.
+Hours spent in this project: 3h
 
 ## Prerequisites
 
